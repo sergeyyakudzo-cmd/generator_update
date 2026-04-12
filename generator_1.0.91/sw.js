@@ -1,4 +1,4 @@
-const CACHE_NAME = 'generator-v1.0.9';
+const CACHE_NAME = 'generator-v1.0.92';
 
 // Ресурсы для кэширования при установке
 const STATIC_ASSETS = [
