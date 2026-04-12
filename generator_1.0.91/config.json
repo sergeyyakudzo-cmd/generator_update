@@ -1,0 +1,11 @@
+{
+    "telegram": {
+        "token": "8542040998:AAGuwymgAEPeB43PoHFNPyJPJxG-EzntzaI",
+        "chat_id": "-1003692249032"
+    },
+    "github": {
+        "repo": "sergeyyakudzo-cmd/generator_update",
+        "branch": "main"
+    },
+    "version": "1.0.9"
+}
