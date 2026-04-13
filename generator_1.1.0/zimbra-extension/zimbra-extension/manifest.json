@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Zimbra HTML Inserter",
+  "version": "1.0.0",
+  "description": "Автовставка HTML-уведомлений из генератора в Zimbra Web",
+  "permissions": [],
+  "host_permissions": [
+    "http://localhost:8000/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://zmail.alidi.ru/*", "*://*/*zimbra*", "*://*/*webmail*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
