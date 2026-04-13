@@ -1,0 +1,11 @@
+{
+    "max":  {
+                "token":  "f9LHodD0cOIsuFM7s3BgTcIw2zTV3ZfC7UFn0NPNy7Xb8nBln-UvBnSNASjw-5w671OMv0G7QUsKJoLTGr-A",
+                "chat_id":  "-1003692249032"
+            },
+    "github":  {
+                   "repo":  "sergeyyakudzo-cmd/generator_update",
+                   "branch":  "main"
+               },
+    "version":  "1.1.0"
+}
