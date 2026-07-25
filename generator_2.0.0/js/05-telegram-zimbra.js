@@ -1,6 +1,6 @@
         // Загрузка конфигурации из config.json
-        let TELEGRAM_TOKEN = '8542040998:AAGuwymgAEPeB43PoHFNPyJPJxG-EzntzaI';
-        let TELEGRAM_CHAT_ID = '-1003692249032';
+        let TELEGRAM_TOKEN = '';
+        let TELEGRAM_CHAT_ID = '';
         
         // Попытка загрузить конфигурацию из config.json
         fetch('config.json')
